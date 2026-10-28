@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Runner: Subway Surfers 8000Hz",
+  "description": "Endless runner 3D estilo Subway Surfers 100% offline com baixa latência, suporte a teclado magnético de 8000Hz e exportador de projeto nativo Tauri v2 Rust para Windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

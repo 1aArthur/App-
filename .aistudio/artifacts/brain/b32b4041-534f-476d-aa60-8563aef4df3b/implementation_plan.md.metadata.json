@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação detalhado para o Velocity Runner: jogo estilo Subway Surfers 100% offline com motor Three.js low-poly para alto FPS, captura de input sub-milissegundo para teclados magnéticos de 8000Hz com Rapid Trigger configurável, HUD de telemetria e exportador do projeto nativo Tauri v2 Rust para Windows.",
+  "updatedAt":  "2026-10-27T23:37:55.697407803Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
